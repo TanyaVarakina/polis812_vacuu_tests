@@ -1,0 +1,23 @@
+{
+  "name": "polis812_vacuu_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaVarakina/polis812_vacuu_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanyaVarakina/polis812_vacuu_test/issues"
+  },
+  "homepage": "https://github.com/TanyaVarakina/polis812_vacuu_test#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10",
+    "playwright": "^1.51.0"
+  }
+}
